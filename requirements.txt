@@ -1,6 +1,6 @@
-MyTestApp
+#MyTestApp
 
-Django==1.9
+Django
 
 # external deps
 crcmod>=1,<2
