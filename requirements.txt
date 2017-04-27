@@ -14,5 +14,5 @@ threadloop>=1,<2
 
 Bcfg2==1.2.4
 ansible==2.0.0.1
-askbot==0.7.53i
+askbot==0.7.53
 celery==2.2.8
